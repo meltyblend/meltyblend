@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aren
 - 👀 I’m interested in playing video games and learning CS !
-- 🌱 I’m currently studying at University and majoring in CS.
+- 🌱 I’m currently studying and majoring in CS.
 - 💞️ I’m looking to collaborate on anything that is fun!
 - 📫 How to reach me you: can reach me through email at aren.jpg@gmail.com
 -
