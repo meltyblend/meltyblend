@@ -9,10 +9,10 @@ I'm a Machine Learning and Data Science enthusiast eager to continuously expand 
 **Personal email**: aren.jpg@gmail.com  **School email**: arenc@csu.fullerton.edu  
 
 Some of my technical skills include:
-C++, Python
+C, C++, Python
 
-Python Libraries: Numpy, Scikit-learn, Matplotlib, ggplot, Pandas
+*Python Libraries*: Numpy, Scikit-learn, Matplotlib, ggplot, Pandas
 
-Currently learning: SQL, PyTorch, TensorFlow
+*Currently learning*: SQL, PyTorch, TensorFlow
 
-Tools: LaTex ,GitHub, MatLab
+*Tools*: LaTex ,GitHub, MatLab
