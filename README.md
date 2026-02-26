@@ -1,6 +1,6 @@
 ### Hello, my name is Aren. 
 
-I'm a fourth-year Computer Science major with a minor in Applied Mathematics at California State University, Fullerton (CSUF), graduating in Spring 2027
+I'm a fourth-year ***Computer Science major with a minor in Applied Mathematics*** at California State University, Fullerton (CSUF), graduating in Spring 2027
 
 I have a strong foundation in both computer science and mathematics, and I’m passionate about applying both fields together to solve complex, data-driven problems.
 
