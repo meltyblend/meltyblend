@@ -6,7 +6,9 @@ I have a strong foundation in both computer science and mathematics, and I’m p
 
 I'm a Machine Learning and Data Science enthusiast eager to continuously expand my knowledge and contribute to real-world applications of these fields.
 
-**My Website**: https://arenchvz.com **Personal email**: arenchvz@gmail.com  **School email**: arenc@csu.fullerton.edu  
+**My Website**: https://arenchvz.com 
+**Personal email**: arenchvz@gmail.com 
+**School email**: arenc@csu.fullerton.edu  
 
 Some of my technical skills include:
 C, C++, Python
